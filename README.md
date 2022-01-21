@@ -1,4 +1,4 @@
-This doc will be used to access all relevant links to the ransomware capstone project.
+# This doc will be used to access all relevant links to the ransomware capstone project.
 
 Personal GitHub: https://github.com/ColtonHulce/Colton-Hulce-CNCS-Capstone
 
